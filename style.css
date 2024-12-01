@@ -34,3 +34,11 @@ justify-content: center;
 .userflash{
     background-color: green;
 }
+@media (max-width: 768px) {
+    .btn {
+        height: 150px;
+        width: 150px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+}
